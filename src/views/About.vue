@@ -1,5 +1,9 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="about pa-6">
+    <h1>About {{ $store.state.appTitle }}</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac odio sit amet nulla feugiat aliquam. Mauris a mauris posuere, varius risus eu, dapibus leo. Cras sit amet ante sit amet risus bibendum luctus nec et tortor. Donec dolor augue, faucibus sit amet dictum ac, lobortis in nulla. Cras magna nulla, venenatis ut odio vitae, dictum porttitor nisi. Aliquam consequat egestas scelerisque. Maecenas pulvinar dolor sed felis ornare auctor.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac odio sit amet nulla feugiat aliquam. Mauris a mauris posuere, varius risus eu, dapibus leo. Cras sit amet ante sit amet risus bibendum luctus nec et tortor. Donec dolor augue, faucibus sit amet dictum ac, lobortis in nulla. Cras magna nulla, venenatis ut odio vitae, dictum porttitor nisi. Aliquam consequat egestas scelerisque. Maecenas pulvinar dolor sed felis ornare auctor.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac odio sit amet nulla feugiat aliquam. Mauris a mauris posuere, varius risus eu, dapibus leo. Cras sit amet ante sit amet risus bibendum luctus nec et tortor. Donec dolor augue, faucibus sit amet dictum ac, lobortis in nulla. Cras magna nulla, venenatis ut odio vitae, dictum porttitor nisi. Aliquam consequat egestas scelerisque. Maecenas pulvinar dolor sed felis ornare auctor.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac odio sit amet nulla feugiat aliquam. Mauris a mauris posuere, varius risus eu, dapibus leo. Cras sit amet ante sit amet risus bibendum luctus nec et tortor. Donec dolor augue, faucibus sit amet dictum ac, lobortis in nulla. Cras magna nulla, venenatis ut odio vitae, dictum porttitor nisi. Aliquam consequat egestas scelerisque. Maecenas pulvinar dolor sed felis ornare auctor.</p>
   </div>
 </template>
